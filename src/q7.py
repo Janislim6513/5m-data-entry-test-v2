@@ -18,11 +18,11 @@ Snippet 1
 
 (a) What does this print? Write the exact value.
 
-    Answer:
+    Answer: 17
 
 (b) In one sentence, describe in plain English what this loop computes.
 
-    Answer:
+    Answer:The loop adds together all the numbers that are greater than 4. f
 
 ------------------------------------------------------------------
 Snippet 2
@@ -37,6 +37,7 @@ Snippet 2
 (c) Write the two lines this program prints, in order.
 
     Answer:
-    Line 1:
-    Line 2:
+    Line 1: Hello, world!
+    Line 2: Hello, Ada!
+    The name = "world" part basically means: "if nobody gives me a name, use 'world'".
 """
